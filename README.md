@@ -1,2 +1,1 @@
-# ansible
-Pluralsight Course Files: Ansible Fundamentals
+# Pluralsight Course Files: Ansible Fundamentals
